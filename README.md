@@ -35,6 +35,10 @@ The invited user clicks the link, enters their name, and joins the call instantl
 
 # Tech Stack Used: 
 
-a) REACT 
-b) JAVASCRIPT 
-c) ZEOCLOUD INTEGRATION
+a) REACT
+
+b) CSS
+
+c) JAVASCRIPT 
+
+d) ZEOCLOUD INTEGRATION
