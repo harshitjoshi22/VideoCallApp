@@ -42,3 +42,19 @@ b) CSS
 c) JAVASCRIPT 
 
 d) ZEOCLOUD INTEGRATION
+
+# UI/Pages (Screenshot):
+
+![image](https://github.com/harshitjoshi22/VideoCallApp/assets/170124286/e7aa14de-3a35-4d06-8f29-d818f9c45fb4)
+
+![image](https://github.com/harshitjoshi22/VideoCallApp/assets/170124286/57875a97-9a69-476d-8842-cfe529db2e17)
+
+![image](https://github.com/harshitjoshi22/VideoCallApp/assets/170124286/733bb846-17e3-484c-8f8f-5f307b9d72df)
+
+![image](https://github.com/harshitjoshi22/VideoCallApp/assets/170124286/0dfd6dea-3fdc-405d-9acf-ab4902d3ce5b)
+
+
+
+
+
+
