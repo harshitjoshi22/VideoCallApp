@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+## App Description:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to QuickConnect, the simple and efficient way to connect with friends, family, and colleagues via video call.
 
-## Available Scripts
+# Features:
 
-In the project directory, you can run:
+a) Easy User Entry:
+Users start by entering their name to personalize their experience.
 
-### `npm start`
+b) Seamless Joining:
+After entering their name, users can join a video call with a single click.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+c) Shareable Link:
+Once in the call, users can generate and copy a unique link to invite others.
+This link can be shared via email, messaging apps, or social media.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+d) Instant Connection:
+The invited user can click the shared link, enter their name, and instantly join the call.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# How It Works:
 
-### `npm run build`
+a) Enter Name:
+Open the app and enter your name to get started.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+b) Join Call:
+Click the "Join Call" button to enter the video chat room.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+c) Invite Others:
+Click the "Invite" button to generate a unique link.
+Copy and share this link with the person you want to invite.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+d) User Joins:
+The invited user clicks the link, enters their name, and joins the call instantly.
 
-### `npm run eject`
+# Tech Stack Used: 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+a) REACT 
+b) JAVASCRIPT 
+c) ZEOCLOUD INTEGRATION
