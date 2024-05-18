@@ -45,16 +45,16 @@ d) ZEOCLOUD INTEGRATION
 
 # UI/Pages (Screenshot):
 
-# PAGE 1: ENTER USERNAME
+## PAGE 1: ENTER USERNAME
 ![image](https://github.com/harshitjoshi22/VideoCallApp/assets/170124286/e7aa14de-3a35-4d06-8f29-d818f9c45fb4)
 
-# PAGE 2: ALLOW MICROPHONE AND VIDEO
+## PAGE 2: ALLOW MICROPHONE AND VIDEO
 ![image](https://github.com/harshitjoshi22/VideoCallApp/assets/170124286/57875a97-9a69-476d-8842-cfe529db2e17)
 
-# PAGE 3: JOIN AND COPY SHAREABLE LINK
+## PAGE 3: JOIN AND COPY SHAREABLE LINK
 ![image](https://github.com/harshitjoshi22/VideoCallApp/assets/170124286/733bb846-17e3-484c-8f8f-5f307b9d72df)
 
-# PAGE 4: ANOTHER USER JOIN WITH SHAREABLE LINK
+## PAGE 4: ANOTHER USER JOIN WITH SHAREABLE LINK
 ![image](https://github.com/harshitjoshi22/VideoCallApp/assets/170124286/0dfd6dea-3fdc-405d-9acf-ab4902d3ce5b)
 
 
