@@ -1,8 +1,8 @@
-## App Description:
+# App Description:
 
 Welcome to QuickConnect, the simple and efficient way to connect with friends, family, and colleagues via video call.
 
-# Features:
+## Features:
 
 a) Easy User Entry:
 Users start by entering their name to personalize their experience.
@@ -18,7 +18,7 @@ d) Instant Connection:
 The invited user can click the shared link, enter their name, and instantly join the call.
 
 
-# How It Works:
+## How It Works:
 
 a) Enter Name:
 Open the app and enter your name to get started.
@@ -33,7 +33,7 @@ Copy and share this link with the person you want to invite.
 d) User Joins:
 The invited user clicks the link, enters their name, and joins the call instantly.
 
-# Tech Stack Used: 
+## Tech Stack Used: 
 
 a) REACT
 
